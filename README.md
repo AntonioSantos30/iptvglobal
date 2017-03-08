@@ -1,0 +1,2 @@
+# iptvglobal
+Canais televisao global
